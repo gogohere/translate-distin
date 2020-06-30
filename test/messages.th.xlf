@@ -1,0 +1,1370 @@
+<!-- Translated on December 24th 2019, 3:56:04 pm by google-translate-xlf:-->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        
+        <target>บ้าน</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/tabs/tabs.page.html</context><context context-type="linenumber">14</context></context-group></trans-unit><trans-unit id="842d2d7a1e2222fcfd92c51c30df7664825c24cc" datatype="html">
+        <source>Notifs</source><target state="new">Notifs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/tabs/tabs.page.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="410c51c0700a107821f1ab3ef947fa8338381e0f" datatype="html">
+        <source>Sourcing</source>
+        
+        
+        <target>Sourcing</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/tabs/tabs.page.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/pages/tab-mycj/mycj.component.html</context><context context-type="linenumber">28</context></context-group></trans-unit>
+      <trans-unit id="8c996df1318e2a0b73347e6990c4e8e5e6ad5956" datatype="html">
+        <source>My Cj</source>
+        
+        <target>ของฉัน Cj</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/tabs/tabs.page.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
+      <trans-unit id="197133a8107471c20b0aebb0ffa7dc50f0c95683" datatype="html">
+        <source>More products information available on CJ APP</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/app-download/app-download.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target>ข้อมูลผลิตภัณฑ์เพิ่มเติมที่มีอยู่บน CJ APP</target>
+      </trans-unit>
+      <trans-unit id="c9039b1b13b3ef165b66b3c5d79f810ab1ebb050" datatype="html">
+        <source>Open</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/app-download/app-download.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target>เปิด</target>
+      </trans-unit>
+      <trans-unit id="7ba7286c7e1a822da269685b64a2989a74fa1c58" datatype="html">
+        <source>Video Available</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/more-commodity-card/more-commodity-card.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <target>มีวิดีโอ</target>
+      </trans-unit>
+      <trans-unit id="e092765f2e2542ba43a643c50783f024eb581d49" datatype="html">
+        <source>Pod</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/more-commodity-card/more-commodity-card.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <target>Pod</target>
+      </trans-unit><trans-unit id="bd28d50f55d5d7e1f1e340db1b8a274f660306a1" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{item.num}}"/>  <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Lists<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="START_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;ng-template>"/><x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>List<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="CLOSE_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;/ng-template>"/></source><target state="new"><x id="INTERPOLATION" equiv-text="{{item.num}}"/>  <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Lists<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="START_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;ng-template>"/><x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>List<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="CLOSE_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;/ng-template>"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/more-commodity-card/more-commodity-card.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit><trans-unit id="9556266f0a2b1762a44b686f2bb21dbfefb01c12" datatype="html">
+        <source>Low</source><target state="new">Low</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/filter/filter.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/warehouse-overview/warehouse-overview.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit><trans-unit id="72279141a67cc042d9864102b703216cc8a428a3" datatype="html">
+        <source>High</source><target state="new">High</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/filter/filter.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/warehouse-overview/warehouse-overview.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      
+      
+      <trans-unit id="b46585ce89a71846032b88d9b65b05130cb54404" datatype="html">
+        <source>
+          <x id="INTERPOLATION" equiv-text="{{commodity.flag === '1' ? 'Source' : 'List'}}"/>
+        </source>
+        
+        <target>
+          <x id="INTERPOLATION" equiv-text="{{commodity.flag === '1' ? 'Source' : 'List'}}"/>
+        </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/components/commodity-card/commodity-card.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
+      <trans-unit id="7e892ba15f2c6c17e83510e273b3e10fc32ea016" datatype="html">
+        <source>Search</source>
+        
+        
+        <target>ค้น หา</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/tab-home/home.component.html</context><context context-type="linenumber">15</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/pages/search/search.component.html</context><context context-type="linenumber">7</context></context-group></trans-unit><trans-unit id="a8212943dd47e7767b887329e992ea25827f92ce" datatype="html">
+        <source>
+          More
+        </source><target state="new">
+          More
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/tab-home/home.component.html</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/tab-home/home.component.html</context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/tab-home/home.component.html</context>
+          <context context-type="linenumber">338</context>
+        </context-group>
+      </trans-unit><trans-unit id="8117e9b2de34eb28d200b797df97239c7bcaf062" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ item.num }}"/> <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Lists<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="START_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;ng-template>"/><x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>List<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="CLOSE_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;/ng-template>"/></source><target state="new"><x id="INTERPOLATION" equiv-text="{{ item.num }}"/> <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Lists<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="START_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;ng-template>"/><x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>List<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="CLOSE_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;/ng-template>"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/tab-home/home.component.html</context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+ 
+      
+      
+      <trans-unit id="c45ab90c7f3b77d7227a91556fe104b287868df5" datatype="html">
+        <source>Hot selling category</source>
+        
+        <target>ประเภทขายร้อน</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/tab-home/home.component.html</context><context context-type="linenumber">303</context></context-group></trans-unit>
+      <trans-unit id="bbf6ccb46b8505620fcc1e4c29cf8cdb372f5173" datatype="html">
+        <source>
+    Sourcing
+    <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div>"/>
+      <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+      <x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+      
+    <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/>
+  </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/tab-source/source.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <target>
+          
+    Sourcing
+    
+      
+      
+      
+    
+ 
+          <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div>"/>
+          <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>
+          <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+          <x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>
+          <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+          <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/>
+        </target>
+      </trans-unit>
+      <trans-unit id="ef9f432d2cecd5ddf5a04a67a134af3305d946b0" datatype="html">
+        <source>
+          Activate
+        </source>
+        
+        <target>
+          เปิด
+       </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/authorization/authorization.component.html</context><context context-type="linenumber">92</context></context-group></trans-unit>
+      <trans-unit id="67417c5520de3b771d31008318bc47b712cff9ee" datatype="html">
+        <source>
+          Reauthorize
+        </source>
+        
+        <target>
+          การให้สิทธิ์ใหม่
+       </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/authorization/authorization.component.html</context><context context-type="linenumber">99</context></context-group></trans-unit>
+      <trans-unit id="44c6ba78644bf54a2bd17b5988f68356b43dfbbf" datatype="html">
+        <source>Personal Website</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-website/change-website.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <target>เว็บไซต์ส่วนตัว</target>
+      </trans-unit>
+      <trans-unit id="141ba48186e28299882162ad25773209655c1e2b" datatype="html">
+        <source>Write a description about yourself</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-description/change-description.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <target>เขียนคำอธิบายเกี่ยวกับตัวคุณเอง</target>
+      </trans-unit>
+      
+      <trans-unit id="175659e8d1546bbc96267f2f6f48ae17af02e7fc" datatype="html">
+        <source>view more></source>
+        
+        <target>ดู > เพิ่มเติม</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/notice/notice.component.html</context><context context-type="linenumber">30</context></context-group></trans-unit>
+      <trans-unit id="57e73d881c6d6b8c69b520fcaae2ecb42c28f1c7" datatype="html">
+        <source>Wish List</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wish-list/wish-list.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <target>รายการที่ต้องการ</target>
+      </trans-unit>
+      <trans-unit id="6490b3960cc7c4a789cdbd29575d93abad081e07" datatype="html">
+        <source>List</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wish-list/wish-list.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/publish/publish.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <target>รายการ</target>
+      </trans-unit>
+      <trans-unit id="6834fa6b43d1ecbdf147c48dd9c4d72f1484571d" datatype="html">
+        <source>Source</source>
+        
+        
+        <target>แหล่ง</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/wish-list/wish-list.component.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">66</context></context-group></trans-unit><trans-unit id="d3cbff754f1c148f3fec696edd246993aea35b01" datatype="html">
+        <source>Product</source><target state="new">Product</target>
+        
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">17</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">10</context></context-group></trans-unit>
+      
+      <trans-unit id="eec715de352a6b114713b30b640d319fa78207a0" datatype="html">
+        <source>Description</source>
+        
+        
+        <target>คำ อธิบาย</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">18</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">11</context></context-group></trans-unit>
+      <trans-unit id="2b749315438fed4fff381ab150cfa20b57f92f8f" datatype="html">
+        <source>
+          View Video
+        </source>
+        
+        <target>
+          ดูวิดีโอ
+       </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">49</context></context-group></trans-unit>
+      <trans-unit id="2072d26b9e534a300e2bb35dad4fbe34aad67090" datatype="html">
+        <source>
+          View Image
+        </source>
+        
+        <target>
+          ดูรูปภาพ
+       </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">65</context></context-group></trans-unit><trans-unit id="39867da293ac1e3c0e590daf5775fa9cf318640d" datatype="html">
+        <source>
+            <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Lists<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="START_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;ng-template>"/><x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/>List<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="CLOSE_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;/ng-template>"/> <x id="INTERPOLATION" equiv-text="{{ productInfo.listed || 0 }}"/> 
+          </source>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">92</context></context-group></trans-unit><trans-unit id="34ef7a229529ca686c1536859f7feb8b2c36db62" datatype="html">
+        <source>
+          Price Updated on
+          <x id="INTERPOLATION" equiv-text="{{ productInfo.updatePriceDate | date: 'MMMM d, y' }}"/>
+        </source>
+        
+        <target>
+          
+            คลัง สินค้า:
+         
+          <x id="INTERPOLATION" equiv-text="{{ (pickWarehouse$ | async)?.name || '--' }}"/>
+        </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">96</context></context-group></trans-unit><trans-unit id="83e756cfd6d97503ab22230dfb3f0ea5aec73ebd" datatype="html">
+        <source>
+            
+             <x id="INTERPOLATION" equiv-text="{{ (pickWarehouse$ | async)?.name || '--' }}"/>
+          </source><target state="new">
+            
+             <x id="INTERPOLATION" equiv-text="{{ (pickWarehouse$ | async)?.name || '--' }}"/>
+          </target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">105</context></context-group></trans-unit>
+      
+      
+      
+      
+      
+      
+      
+      
+      <trans-unit id="78c11c2d6953fc0c786300a5f38dcde0b8f0de52" datatype="html">
+        <source>
+          <x id="INTERPOLATION" equiv-text="{{ tickedVariant.VARIANTKEY }}"/>
+        </source>
+        
+        <target>
+          <x id="INTERPOLATION" equiv-text="{{ tickedVariant.VARIANTKEY }}"/>
+        </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">134</context></context-group></trans-unit>
+      <trans-unit id="576cfd3ebc7ac442fe548d2931af1d7b3464bea5" datatype="html">
+        <source>Products Detail</source>
+        
+        <target>รายละเอียดผลิตภัณฑ์</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/product-details/product-details.component.html</context><context context-type="linenumber">141</context></context-group></trans-unit>
+      <trans-unit id="9dd35a9218553de2162f6a0b7189bca507939efa" datatype="html">
+        <source>Store</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/publish/publish.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <target>เก็บ</target>
+      </trans-unit>
+      <trans-unit id="607de17c2a755f65775881c19e276e7c933bcf94" datatype="html">
+        <source>Category</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/publish/publish.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <target>ประเภท</target>
+      </trans-unit>
+      <trans-unit id="db31a3fab20761900bc476e636c67920c0ebdc84" datatype="html">
+        <source>No categories</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/publish/publish.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <target>ไม่มีประเภท</target>
+      </trans-unit>
+      <trans-unit id="1b78614b54ca65e8d09a4fb9f3bebce3547567fa" datatype="html">
+        <source>Please Input Your Price</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/publish/publish.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <target>กรุณาใส่ราคาของคุณ</target>
+      </trans-unit>
+      <trans-unit id="40711a3bf5498fa0622edabe232792d1082fc13a" datatype="html">
+        <source> Please Input Your Price</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/publish/publish.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+        <target> กรุณาใส่ราคาของคุณ</target>
+      </trans-unit><trans-unit id="89c69abbf0edd2b4d2c907111af3a50d6672846e" datatype="html">
+        <source>
+    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Oversea Warehouses<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+    <x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+    <x id="START_TAG_SPAN_2" ctype="x-span" equiv-text="&lt;span>"/>
+    <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+  </source><target state="new">
+    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Oversea Warehouses<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+    <x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+    <x id="START_TAG_SPAN_2" ctype="x-span" equiv-text="&lt;span>"/>
+    <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/warehouse-overview/warehouse-overview.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8f8239645e1e8f704f4414ae27e4e1b485593e72" datatype="html">
+        <source>Product Price: <x id="INTERPOLATION" equiv-text="{{ productInfo.price | currency }}"/></source>
+        
+        <target>
+          ราคาสินค้า:
+          <x id="INTERPOLATION" equiv-text="{{ productInfo.price | currency }}"/>
+        </target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">42</context></context-group></trans-unit>
+      <trans-unit id="f7ae71fe8ec197f5ac61cad6a0736c142ec998e3" datatype="html">
+        <source>Shipping Method: Not Found</source>
+        
+        <target>วิธีการจัดส่ง: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">44</context></context-group></trans-unit>
+      <trans-unit id="410ba9a36fd18f303d27794058f6f8096bc21b19" datatype="html">
+        <source>Shipping Cost: Not Found</source>
+        
+        <target>ค่าจัดส่ง: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">45</context></context-group></trans-unit>
+      <trans-unit id="8613bc8fdbcbacad9a125040682de6f20392c8ae" datatype="html">
+        <source>Total DropShipping Price: Not Found</source>
+        
+        <target>ราคารวม DropShipping: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">46</context></context-group></trans-unit>
+      <trans-unit id="a8a235775b252a34e918974d43b4bbec66cf7777" datatype="html">
+        <source>Shipping from: Not Found</source>
+        
+        <target>จัดส่งจาก: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">47</context></context-group></trans-unit>
+      <trans-unit id="652622d951e427d9dde6986bcbbbcc6462cf0db5" datatype="html">
+        <source>Inventory: Not Found</source>
+        
+        <target>สินค้าคงคลัง: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">48</context></context-group></trans-unit>
+      <trans-unit id="43c3ebf5dc3b54aa3bfa9659d9e2835f0c3b236f" datatype="html">
+        <source>Processing Time: Not Found</source>
+        
+        <target>เวลาในการดำเนินการ: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">49</context></context-group></trans-unit>
+      <trans-unit id="841bb7480891188bfca03ad977b1776af7dae408" datatype="html">
+        <source>Weight: Not Found</source>
+        
+        <target>น้ำหนัก: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">50</context></context-group></trans-unit>
+      <trans-unit id="f48eef1d1dc58b587e64e9d5be5e8140c41086cf" datatype="html">
+        <source>Sku: Not Found</source>
+        
+        <target>รหัสสินค้า: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">51</context></context-group></trans-unit>
+      <trans-unit id="dbde40644bc024ce8e2bcd26e38c533c1977a818" datatype="html">
+        <source>Product Attributes: Not Found</source>
+        
+        <target>คุณลักษณะของผลิตภัณฑ์: ไม่พบ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/reptile-details/reptile-details.component.html</context><context context-type="linenumber">52</context></context-group></trans-unit>
+      <trans-unit id="c25bb8e07a9b18c6f85b1a69dc18f7f0194b76b6" datatype="html">
+        <source>please enter valid shopName</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-ebay/add-authorization-ebay.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาใส่ชื่อร้านที่ถูกต้อง</target>
+      </trans-unit>
+      <trans-unit id="00f8dd66ec51c63b877c1ec8cb025f456ee57bfd" datatype="html">
+        <source>please enter your shop name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-ebay/add-authorization-ebay.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาใส่ชื่อร้านค้าของคุณ</target>
+      </trans-unit>
+      <trans-unit id="6229f1fe975a91bbd8d6380ec15fe6a924252b16" datatype="html">
+        <source>Please ernter your store name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-shopify/add-authorization-shopify.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรด ernter ร้านค้าของคุณ</target>
+      </trans-unit>
+      <trans-unit id="ea225e2f44d9879b53f15c69c56d39589448a25d" datatype="html">
+        <source>please enter a URL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-woocommerce/add-authorization-woocommerce.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดป้อน URL</target>
+      </trans-unit>
+      <trans-unit id="e0b6887dc2078fb7611227782ec4dbcd7c86f106" datatype="html">
+        <source>please enter Consumer Key</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-woocommerce/add-authorization-woocommerce.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดป้อนคีย์ผู้บริโภค</target>
+      </trans-unit>
+      <trans-unit id="984b2d7dffc1cb66d4211fd706119b21349bcb84" datatype="html">
+        <source>please enter Consumer secret</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-woocommerce/add-authorization-woocommerce.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาใส่ความลับของผู้บริโภค</target>
+      </trans-unit>
+      <trans-unit id="97f490fe536a366eb832771a70e62b924f331df2" datatype="html">
+        <source>Store ID only, no "https://" or "http://".</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-woocommerce/add-authorization-woocommerce.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รหัสร้านค้าเท่านั้นไม่มี "https://" หรือ "http://"</target>
+      </trans-unit>
+      <trans-unit id="443ffb3a6628dffa46054fbdf312ee54b3338e4b" datatype="html">
+        <source>Authorization Success</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-woocommerce/add-authorization-woocommerce.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ความสำเร็จในการอนุมัติ</target>
+      </trans-unit>
+      <trans-unit id="2acaafbcf15d14c1aefc177534296a277fc67b2a" datatype="html">
+        <source>Authorization Failure</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/add-authorization/add-authorization-woocommerce/add-authorization-woocommerce.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ความล้มเหลวในการตรวจสอบ</target>
+      </trans-unit>
+      <trans-unit id="d8cc44aaa0ea2f0aa6b369884ab4beca0a46fb50" datatype="html">
+        <source>Activated</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เปิดใช้งาน</target>
+      </trans-unit>
+      <trans-unit id="50cea73db021af5af9aeee4238a0b078c6e16061" datatype="html">
+        <source>Deactivated/Unauthorized</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ปิดใช้งาน/ไม่ได้รับอนุญาต</target>
+      </trans-unit>
+      <trans-unit id="ef5bb02cbfa3e93f193574d795b893af8510210a" datatype="html">
+        <source>Added failed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เพิ่มล้มเหลว</target>
+      </trans-unit>
+      <trans-unit id="b1478516f86516cfb888fe56da755fad7d66d7c4" datatype="html">
+        <source>The POD feature will be activated after your store Re-authorized to CJ.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>คุณสมบัติ POD จะเปิดใช้งานหลังจากที่ร้านของคุณได้รับอนุญาตให้ CJ</target>
+      </trans-unit>
+      <trans-unit id="c7d761ff7a5f7e7a8f6d3899d4a7fe62e73afab3" datatype="html">
+        <source>cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ยกเลิก</target>
+      </trans-unit>
+      <trans-unit id="7a2d3ee8bf9a58ea070d31dcee19e8ef7ba1737f" datatype="html">
+        <source>Reauthorize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การให้สิทธิ์ใหม่</target>
+      </trans-unit>
+      <trans-unit id="f9d7a721e0f24cf41e2d5a4db50ba07fde567d66" datatype="html">
+        <source>Successfully add</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เพิ่มเรียบร้อยแล้ว</target>
+      </trans-unit>
+      <trans-unit id="7d96ea8504d12208cb9aa55e21fc8bd9fd84120f" datatype="html">
+        <source>Successfully remove</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เอาออกเรียบร้อยแล้ว</target>
+      </trans-unit>
+      <trans-unit id="5b9a21ec92450c03701276b2b557edba4a0e5a04" datatype="html">
+        <source>Deactivation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ปิดใช้งาน</target>
+      </trans-unit>
+      <trans-unit id="373a9fc3cb229709cfc19b595ea61971a53e6653" datatype="html">
+        <source>Are you sure to deactivate the connection ?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>คุณแน่ใจหรือไม่ว่าต้องการปิดใช้งานการเชื่อมต่อ</target>
+      </trans-unit>
+      <trans-unit id="93258ded2d121d44863d6fd3301e919793517c95" datatype="html">
+        <source>confirm</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ยืนยัน</target>
+      </trans-unit>
+      <trans-unit id="0eb9bdb4398e0a4d8d5b219ffb5b0aacecf54cfe" datatype="html">
+        <source>Successfully deactivate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ปิดใช้งานเรียบร้อยแล้ว</target>
+      </trans-unit>
+      <trans-unit id="253769d0d0039dad3b9a012e14959ac38ed3336f" datatype="html">
+        <source>Successfully activate</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/authorization/authorization.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เปิดใช้งานเรียบร้อยแล้ว</target>
+      </trans-unit><trans-unit id="e069539186b1999f5a47af1b158be899ede2d3b3" datatype="html">
+        <source>Email not exist!</source><target state="new">Email not exist!</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/login-register/modal-page/forgot-word/forgot-word.component.ts</context><context context-type="linenumber">1</context></context-group></trans-unit><trans-unit id="c1df2cef8a33e971239099e28d345b713ebd294d" datatype="html">
+        <source>Verification code send successded, please check your inbox!</source><target state="new">Verification code send successded, please check your inbox!</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/login-register/modal-page/forgot-word/forgot-word.component.ts</context><context context-type="linenumber">1</context></context-group></trans-unit>
+      
+      
+      
+      
+      <trans-unit id="e3155e1562f91c632efca0d015db7188d6a7bbba" datatype="html">
+        <source>Lost ek code, resend Email please!</source>
+        
+        <target>หายไปรหัส ek ส่ง Email โปรด!</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/login-register/modal-page/forgot-word/forgot-word.component.ts</context><context context-type="linenumber">1</context></context-group></trans-unit>
+      <trans-unit id="58aa8f858e05a82e9a290a2f0a9a1f64184c69d4" datatype="html">
+        <source>Google login verification failed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login-register/login-register.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การยืนยันการเข้าสู่ระบบของ Google ล้มเหลว</target>
+      </trans-unit>
+      <trans-unit id="95844effad463e2e30b0cd83bd997eb172e28ba2" datatype="html">
+        <source>Facebook login verification failed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login-register/login-register.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การยืนยันการเข้าสู่ระบบของ Facebook ล้มเหลว</target>
+      </trans-unit>
+      <trans-unit id="09e87fee15394101750242660212eaad4a823705" datatype="html">
+        <source>Auth failed! Plase sgin up.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login-register/login-register.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การรับรองล้มเหลว! ที่สุด</target>
+      </trans-unit>
+      <trans-unit id="9d74d56ed5de0a6d6b572ba3c9f1d8e9708f1752" datatype="html">
+        <source>Login Failed!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/login-register/login-register.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เข้าสู่ระบบล้มเหลว!</target>
+      </trans-unit>
+      <trans-unit id="de8780398a1a7163b5116186aef45c47d8d74c05" datatype="html">
+        <source>Account or password incorrect.</source>
+        
+        <target>บัญชีหรือรหัสผ่านไม่ถูกต้อง</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/login-register/modal-page/sign-in/sign-in.component.ts</context><context context-type="linenumber">1</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/pages/login/login.component.ts</context><context context-type="linenumber">1</context></context-group></trans-unit><trans-unit id="bb3d33a20026902428a2a19b74b6169553262704" datatype="html">
+        <source>Request Failed</source><target state="new">Request Failed</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/add-country/add-country.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/add-logistics/add-logistics.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/choose-product/choose-product.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/choose-product/choose-product.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/choose-product/choose-product.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/connection-detail/connection-detail.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="8fa0878b6bb1dade1d4e9f0c5ad85c8272bb2d58" datatype="html">
+        <source>Add failed, please try again later</source><target state="new">Add failed, please try again later</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/add-logistics/add-logistics.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="f95f47a12917c78fb7245b22e2b9b1346be9e2ff" datatype="html">
+        <source>Please choose a shipping method.</source><target state="new">Please choose a shipping method.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/choose-product/choose-product.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="e33d805f0c1ce97c92b68fc882084fef23cca646" datatype="html">
+        <source>Request failed</source><target state="new">Request failed</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/mycj-connection.service.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-connection/mycj-connection.service.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="0f765ed523a687d10d9ce72d65685d946cb05a19" datatype="html">
+        <source>Resquest failed</source><target state="new">Resquest failed</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj-wallet/mycj-wallet.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9d772f37a83cd15ffa5bfa5048d62d0f291901ad" datatype="html">
+        <source>Input cannot be empty</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-description/change-description.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-website/change-website.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>อินพุตไม่สามารถว่างเปล่า</target>
+      </trans-unit>
+      <trans-unit id="4631755755e07d2d5ce0f4ee66a436b7f7303588" datatype="html">
+        <source>Fail to reserve</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-description/change-description.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-website/change-website.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/set-contact-id/set-contact-id.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/set-store-link/set-store-link.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/setup-set-name/setup-set-name.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/setup-set-value/setup-set-value.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ล้มเหลวในการจอง</target>
+      </trans-unit>
+      <trans-unit id="5b5675ff45899f2c5effa4a73c0660a40865fa86" datatype="html">
+        <source>Two passwords are inconsistent</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รหัสผ่านที่สองไม่สอดคล้องกัน</target>
+      </trans-unit>
+      <trans-unit id="c88e188123a562aaea06fae7f32c81ae82a2fc70" datatype="html">
+        <source>Incorrect password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รหัสผ่านไม่ถูกต้อง</target>
+      </trans-unit>
+      <trans-unit id="ec2968fdb0c025f92d5163bef4a12d7461cadddf" datatype="html">
+        <source>Please enter complete information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/set-contact-id/set-contact-id.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/setup-set-name/setup-set-name.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/setup-set-value/setup-set-value.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดป้อนข้อมูลที่ครบถ้วน</target>
+      </trans-unit>
+      <trans-unit id="c66e8e4a3631ffeb24088e6acede8765a0537275" datatype="html">
+        <source>Your password must consist of letters,numbers and special characters, 8-15 characters.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รหัสผ่านของคุณต้องประกอบด้วยตัวอักษรตัวเลขและอักขระพิเศษ8-15 อักขระ</target>
+      </trans-unit>
+      <trans-unit id="a4469c6b8236559fcd5936accc60c3bb30e28ac6" datatype="html">
+        <source>Change Successful</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เปลี่ยนแปลงสำเร็จ</target>
+      </trans-unit>
+      <trans-unit id="4e15a290172a8bf2186363232fe7da8cc26b8ea4" datatype="html">
+        <source>Password is the same as before</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รหัสผ่านจะเหมือนกับก่อน</target>
+      </trans-unit>
+      <trans-unit id="f651c983f650dbd70c8216ded2a92449a4c5bb8c" datatype="html">
+        <source>Change failed,please try again</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การเปลี่ยนแปลงที่ล้มเหลวโปรดลองอีกครั้ง</target>
+      </trans-unit>
+      <trans-unit id="0b987289b1352f10c0a743076f46b1fc1cd026c4" datatype="html">
+        <source>At least one store link</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/set-store-link/set-store-link.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การเชื่อมโยงร้านค้าอย่างน้อยหนึ่งรายการ</target>
+      </trans-unit><trans-unit id="e99c7bffd5ccad8f2bf82d080ecea61e0d2ec30e" datatype="html">
+        <source>The shipping place is required!</source><target state="new">The shipping place is required!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      
+      
+      
+      <trans-unit id="9d8e896c1690b6039776e43fb1d330b245e71d69" datatype="html">
+        <source>Required in this shipping area</source><target state="new">Required in this shipping area</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="f70cb1d9f409da09e06b84385a76e1e7a600cf97" datatype="html">
+        <source>Required for this delivery area</source><target state="new">Required for this delivery area</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="80d5d7346e4d62972d7b57763ff838100ed86a00" datatype="html">
+        <source>Required for this shipping and receiving area</source><target state="new">Required for this shipping and receiving area</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      
+      <trans-unit id="7f0102bad498f2ce6360b4fcef6a95fd97711d56" datatype="html">
+        <source>Fail to send</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/code/code.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ล้มเหลวในการส่ง</target>
+      </trans-unit>
+      <trans-unit id="3dada97f25d217ad01e3a2efbc2eb8f113dac02e" datatype="html">
+        <source>Send successfully</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/code/code.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ส่งเรียบร้อยแล้ว</target>
+      </trans-unit>
+      <trans-unit id="6b09d764703a9ce254ab4d77afa2c227a2c8b271" datatype="html">
+        <source>please enter verification code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/code/code.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาใส่รหัสยืนยัน</target>
+      </trans-unit>
+      <trans-unit id="ec38128c062effe050aa6c0f0fba73f4a6c55eb0" datatype="html">
+        <source>Authentication failed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/code/code.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การรับรองความถูกต้องล้มเหลว</target>
+      </trans-unit>
+      <trans-unit id="ce3b235d5bbf341fa9a894a142f42e63f8c10da5" datatype="html">
+        <source>Please set a username first</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดตั้งชื่อผู้ใช้ก่อน</target>
+      </trans-unit>
+      <trans-unit id="e892ff02fdefac4dd455af1dc6df67554bed5416" datatype="html">
+        <source>Please set a email first</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดตั้งค่าให้กับทาง e-mail ก่อน</target>
+      </trans-unit>
+      <trans-unit id="4550a806320545a124aafddb2700908634a8f819" datatype="html">
+        <source>Please set a password first</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดตั้งรหัสผ่านก่อน</target>
+      </trans-unit>
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+      <trans-unit id="c66e8e4a3631ffeb24088e6acede8765a0537275" datatype="html">
+        <source>Your password must consist of letters,numbers and special characters, 8-15 characters.</source>
+        
+        <target>รหัสผ่านของคุณต้องประกอบด้วยตัวอักษรตัวเลขและอักขระพิเศษ8-15 อักขระ</target>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context><context context-type="linenumber">1</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context><context context-type="linenumber">1</context></context-group></trans-unit><trans-unit id="a4469c6b8236559fcd5936accc60c3bb30e28ac6" datatype="html">
+        <source>Change Successful</source><target state="new">Change Successful</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="4e15a290172a8bf2186363232fe7da8cc26b8ea4" datatype="html">
+        <source>Password is the same as before</source><target state="new">Password is the same as before</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="f651c983f650dbd70c8216ded2a92449a4c5bb8c" datatype="html">
+        <source>Change failed,please try again</source><target state="new">Change failed,please try again</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/change-password/change-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="0b987289b1352f10c0a743076f46b1fc1cd026c4" datatype="html">
+        <source>At least one store link</source><target state="new">At least one store link</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/setup/set-store-link/set-store-link.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="24c95fe8d1a7da2640ff66668dfd8eedb4706452" datatype="html">
+        <source>Please select attribute!</source><target state="new">Please select attribute!</target>
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="c36caf9d589799bd1b9bb8aa7fcad97c3033b420" datatype="html">
+        <source>The delivery place is required!</source><target state="new">The delivery place is required!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="6a55d440e7545106fc89d4abd8ab038921d43cac" datatype="html">
+        <source>Weight must large than 0</source><target state="new">Weight must large than 0</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="4112990ef7968cf4671226b2916312e461d89ad9" datatype="html">
+        <source>Please Input Weight!</source><target state="new">Please Input Weight!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="cb4765bab717deba028109eff9aca03c0710f47b" datatype="html">
+        <source>Length must large than 0</source><target state="new">Length must large than 0</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="42f6a0a50b93929973b451d20a22954178650436" datatype="html">
+        <source>Width must large than 0</source><target state="new">Width must large than 0</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="c31461e43a798970512577d0ed4e662e568e1860" datatype="html">
+        <source>Height must large than 0</source><target state="new">Height must large than 0</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="f1b414c93af25d2ac4776d368877d0b72e8542a8" datatype="html">
+        <source>No available shipping methods.</source><target state="new">No available shipping methods.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/mycj/shipping-cost-calculation/shipping-cost-calculation.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d94b0e9ea0e75c571b035e243000bc208af46632" datatype="html">
+        <source>Users already exist</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ผู้ใช้มีอยู่แล้ว</target>
+      </trans-unit>
+      <trans-unit id="89fee5acf3d216b01f38c88666eaf7c0e0d16107" datatype="html">
+        <source>Failed to set password</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ไม่สามารถตั้งค่ารหัสผ่าน</target>
+      </trans-unit>
+      <trans-unit id="c169b7624ce1bb982bb20bd0c051ea3628bf1b91" datatype="html">
+        <source>Registration failed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การลงทะเบียนล้มเหลว</target>
+      </trans-unit>
+      <trans-unit id="e8a2bb7b2d6962d1bdeb02ed7545c0663f05e500" datatype="html">
+        <source>Registration successfully! Logining...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ลงทะเบียนเสร็จเรียบร้อยแล้ว! ...</target>
+      </trans-unit>
+      <trans-unit id="5833fd0e178ee215946277e7aa4eb90a522ca10e" datatype="html">
+        <source>Login Successful!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/password/password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เข้าสู่ระบบสำเร็จ!</target>
+      </trans-unit>
+      <trans-unit id="bfdbb62599e7595273dbe6782810de84e061e13b" datatype="html">
+        <source>Only numbers and letters.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/username/username.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เฉพาะตัวเลขและตัวอักษร</target>
+      </trans-unit>
+      <trans-unit id="3a71b720ebc8e32e02b35e77967a164c8f058fb9" datatype="html">
+        <source>The user name already exists</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/register/username/username.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ชื่อผู้ใช้มีอยู่แล้ว</target>
+      </trans-unit>
+      <trans-unit id="dbd198f4718904dc363cd1a7e367eef4c73861d8" datatype="html">
+        <source>Two password must match.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/reset-password/reset-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รหัสผ่านสองตัวต้องตรงกัน</target>
+      </trans-unit>
+      <trans-unit id="92a0b500b294a114ece53fea3f657d33c828d9d0" datatype="html">
+        <source>Password reset faile.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/reset-password/reset-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รีเซ็ตรหัสผ่าน faile.</target>
+      </trans-unit>
+      <trans-unit id="e6890394ba1f9a9f2593f0ea95709cd2a6563d75" datatype="html">
+        <source>Password reset successful!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/reset-password/reset-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รีเซ็ตรหัสผ่านสำเร็จ!</target>
+      </trans-unit><trans-unit id="b32a63bc5ccf757bf6adc689289b1cca018389f1" datatype="html">
+        <source>Duplicate passwords previously used</source><target state="new">Duplicate passwords previously used</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/reset-password/reset-password.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b9bb67c386d3b713e15578b52dccdb41d6702c45" datatype="html">
+        <source>please input productName</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-add/source-add.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาป้อน productName</target>
+      </trans-unit>
+      <trans-unit id="f036a4d903f2d5fe066a9f652f9c5045fbb8693e" datatype="html">
+        <source>please input a URL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-add/source-add.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดป้อน URL</target>
+      </trans-unit>
+      <trans-unit id="e0fc8f5c10f322eb417dee0fa7f1daa109c13510" datatype="html">
+        <source>please input price</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-add/source-add.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาใส่ราคา</target>
+      </trans-unit>
+      <trans-unit id="17894469140b17ce00eb02152f1eed3bdf8c3389" datatype="html">
+        <source>please upload img</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-add/source-add.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>โปรดอัปโหลด img</target>
+      </trans-unit>
+      <trans-unit id="c22fc1a59fe46121d910644c7ed3566ce5b94c82" datatype="html">
+        <source>please choose country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-add/source-add.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาเลือกประเทศ</target>
+      </trans-unit>
+      <trans-unit id="46db127c880601322ed2b4265a6e1193f655eb7b" datatype="html">
+        <source>add Success</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-add/source-add.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เพิ่มความสำเร็จ</target>
+      </trans-unit>
+      <trans-unit id="b5aaad176883d9cfa93cf2c50ba7651232241e7b" datatype="html">
+        <source>add fail,please try again</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-add/source-add.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เพิ่มล้มเหลวโปรดลองอีกครั้ง</target>
+      </trans-unit>
+      <trans-unit id="37d45975bbf3eb289fea51350d3a18c982d42662" datatype="html">
+        <source>On Sourcing</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เกี่ยวกับการจัดหา</target>
+      </trans-unit>
+      <trans-unit id="71c53a55bb88f661f5fed08c97a06aaf111ace08" datatype="html">
+        <source>Thanks for post a sourcing request to us, we are doing the research for this product, will let you know once we have any updates. Please be patient!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ขอบคุณสำหรับการโพสต์คำขอการจัดหาให้เราเรากำลังทำการวิจัยสำหรับผลิตภัณฑ์นี้จะช่วยให้คุณทราบเมื่อเรามีการปรับปรุงใดๆ โปรดอดทน!</target>
+      </trans-unit>
+      <trans-unit id="c4fdacdf6bb06620f431988544bb22d11d5eb1ec" datatype="html">
+        <source>Sourcing Fail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การจัดหาล้มเหลว</target>
+      </trans-unit>
+      <trans-unit id="551978cca90a6d2729d2bf7e1006689a5cd3d53f" datatype="html">
+        <source>Unfortunately, we had tried our best to source the product you interested, but failed. You can either post a new sourcing request or source similar ones from our marketplace.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>แต่น่าเสียดายที่เราพยายามอย่างดีที่สุดเพื่อแหล่งที่มาของผลิตภัณฑ์ที่คุณสนใจแต่ล้มเหลว คุณสามารถลงรายการบัญชีการร้องขอการจัดหาใหม่หรือแหล่งที่มาที่คล้ายกันจากตลาดของเรา</target>
+      </trans-unit>
+      <trans-unit id="6734a031f26a8959acc466bebaebaae0c672fe20" datatype="html">
+        <source>Sourcing Success</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การจัดหาความสำเร็จ</target>
+      </trans-unit>
+      <trans-unit id="b7499a40b31712c90d000f1173c812ec2260d993" datatype="html">
+        <source>Congratulation, we got your expected product. We can start the dropshipping of this product now, you can also contact our representative if you have any questions about this product.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/source-details/source-details.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>Congratulation เรามีผลิตภัณฑ์ที่คุณคาดไว้ เราสามารถเริ่มต้นการ dropshipping ของผลิตภัณฑ์นี้ตอนนี้, คุณยังสามารถติดต่อตัวแทนของเราหากคุณมีคำถามใดๆเกี่ยวกับผลิตภัณฑ์นี้.</target>
+      </trans-unit>
+      <trans-unit id="76a6fdf78d9327e9f7eda71df15fb755789be5d2" datatype="html">
+        <source>Please later.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/tab-home/home.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>กรุณาในภายหลัง</target>
+      </trans-unit><trans-unit id="b079fad9bcaee0f16883edf043fcf7492e813cd6" datatype="html">
+        <source>Update Successful</source><target state="new">Update Successful</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-payoneer/charge-payoneer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-payoneer/charge-payoneer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="e63ae02d3465aae5cbe1808884c3597453851b1e" datatype="html">
+        <source>Unbind Successful</source><target state="new">Unbind Successful</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-payoneer/charge-payoneer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="e851ea3e3759091117ad0fc1936221af9794d4b9" datatype="html">
+        <source>Invalid url</source><target state="new">Invalid url</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-payoneer/charge-payoneer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="b083159629f0ee4fec676212d5b746fe84da88b7" datatype="html">
+        <source>Please login to your account!</source><target state="new">Please login to your account!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-payoneer/charge-payoneer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="64c3990b55e269c6e08c8d633e08e123ef45b458" datatype="html">
+        <source>Send failed, please try again</source><target state="new">Send failed, please try again</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-payoneer/charge-payoneer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="8bbca40a509b617d2bd81c654aaf5d5661d56a97" datatype="html">
+        <source>Please enter your note</source><target state="new">Please enter your note</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-wiretransfer/charge-wiretransfer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="068b254f0fe850441da0e95aa5d86e20205d12ef" datatype="html">
+        <source>Please upload at least one picture</source><target state="new">Please upload at least one picture</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/charge-wiretransfer/charge-wiretransfer.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="659648f7b67ba80292a7094705fabfdab6bed308" datatype="html">
+        <source>Submission Failed, Please Try It Again Later.</source><target state="new">Submission Failed, Please Try It Again Later.</target>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context><context context-type="linenumber">1</context></context-group></trans-unit><trans-unit id="00094ec1532e4cb7b93cbf0ebaa98834f7ac124e" datatype="html">
+        <source>Please enter your withdrawal amount</source><target state="new">Please enter your withdrawal amount</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="27fbb4d4f5ac43b3b2305a92c1dd321d87d750b9" datatype="html">
+        <source>Please enter correct withdrawal amount</source><target state="new">Please enter correct withdrawal amount</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="8e81d9b7672ac2b021bb2415f940e8d810c2ca9e" datatype="html">
+        <source>Exceed the Withdrawal Limit</source><target state="new">Exceed the Withdrawal Limit</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="7c4175adcb781144bdc466b3e6f365b3423440c0" datatype="html">
+        <source>Please enter your account</source><target state="new">Please enter your account</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="aa9c436e94f421a6f545e656cff2296c475f908a" datatype="html">
+        <source>Please enter correct account</source><target state="new">Please enter correct account</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="b838deb7dc1ed49c7102f7debe991e21c412b7f0" datatype="html">
+        <source>You cannot charge less than 2000.</source><target state="new">You cannot charge less than 2000.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/wallet-charge.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="232a8e93b4cd4ad4ddccc8493714f8f911eb8d7a" datatype="html">
+        <source>You cannot charge less than 0.</source><target state="new">You cannot charge less than 0.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-charge/wallet-charge.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="cc55d3f63083ebd7a160f190d9d03e50e3104e34" datatype="html">
+        <source>Send Failed,Please Try Again</source><target state="new">Send Failed,Please Try Again</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit><trans-unit id="35fc949fa8a7fb0690b3559cd37745e744ebb31d" datatype="html">
+        <source>Please enter the code</source><target state="new">Please enter the code</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/wallet-withdrawal/wallet-withdrawal.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9d5bdcaf3543a26cbf87f9c5f4402ad8ea349216" datatype="html">
+        <source>List CJ Products to Your Stores</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>แสดงรายการผลิตภัณฑ์ CJ ไปยังร้านค้าของคุณ</target>
+      </trans-unit>
+      <trans-unit id="54c4214fc484a46881345dc024a9a6e993d2a355" datatype="html">
+        <source>Post Sourcing Request</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>ลงรายการบัญชีการร้องขอการจัดหา</target>
+      </trans-unit>
+      <trans-unit id="4fa06ac703b7be7432608f80cbae9b2bc2e490cc" datatype="html">
+        <source>Connect Products</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>เชื่อมต่อผลิตภัณฑ์</target>
+      </trans-unit>
+      <trans-unit id="b3ae68b34e15994d27bf74cd3bc80a0f9b100e3e" datatype="html">
+        <source>Automatically Fulfill Orders</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การตอบสนองคำสั่งซื้อโดยอัตโนมัติ</target>
+      </trans-unit>
+      <trans-unit id="fe38e3ed56013a2a8e137b767dba2423630056ee" datatype="html">
+        <source>Print on Demand</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>พิมพ์ตามความต้องการ</target>
+      </trans-unit>
+      <trans-unit id="f4e5667cf3fc0d9817075e6453deb8dfbbf3c315" datatype="html">
+        <source>Custom Branding</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>การสร้างแบรนด์แบบกำหนดเอง</target>
+      </trans-unit>
+      <trans-unit id="dbe0bf67ce2d3fe7962f393d138f5b82bfe72be2" datatype="html">
+        <source>Worldwide Warehouse Source</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>แหล่งที่มาของคลังสินค้าทั่วโลก</target>
+      </trans-unit>
+      <trans-unit id="0eb166348a12fcb5eef57ed2e24d93b4bb4e4e13" datatype="html">
+        <source>Get Trending Products</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/welcome/welcome.component.ts</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <target>รับผลิตภัณฑ์ที่มีแนวโน้ม</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
